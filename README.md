@@ -29,3 +29,9 @@ A "Hello World" PHP application. The pipeline is set up to create a Docker image
 A simple "Hello World" Python application. The associated GitHub Actions workflow builds and pushes a Docker image.
 
 ➡️ [**View Python CI/CD repository**](https://github.com/ashish404403/python-cicd)
+
+### 5. Go CI/CD
+
+A "Hello World" Go application. The pipeline builds the Go application and packages it into a Docker image for deployment.
+
+➡️ [**View Go CI/CD repository**](https://github.com/ashish404403/go-cicd)
